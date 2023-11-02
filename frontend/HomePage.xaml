@@ -1,0 +1,86 @@
+﻿<Window x:Class="frontend.HomePage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:frontend"
+        mc:Ignorable="d"
+        AllowsTransparency="True" Background="Transparent"
+        WindowStyle="None" ResizeMode="NoResize"
+        MouseDown="Window_MouseDown"
+        Title="HomePage" Height="560" Width="450">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+
+        </Grid.RowDefinitions>
+
+        <Border CornerRadius="10" Grid.RowSpan="2">
+            <Border.Background>
+                <LinearGradientBrush>
+                    <GradientStop Color="#303030" Offset="0.0"/>
+                    <GradientStop Color="Fuchsia" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+        </Border>
+
+        <StackPanel VerticalAlignment="Top"
+                    Margin="0,20,0,0">
+            <Image 
+                    Source="/Images/cheers.png"
+                    Width="80"/>
+
+            <TextBlock Text="Event House"
+                           FontWeight="Light"
+                           FontFamily="Forte"
+                           FontSize="36"
+                           HorizontalAlignment="Center"
+                           Foreground="White"/>
+
+            <StackPanel Orientation="Horizontal" Margin="0,40,0,0">
+
+                <Button Width="100"
+                            Height="40" 
+                            Content="LOGIN" 
+                            Margin="120,0,0,0"
+                            Click="HomePageLogin"/>
+
+                <Button Width="100"
+                            Height="40" 
+                            Content="Register" 
+                            Margin="10,0,100,0"
+                            Click="HomePageRegister"/>
+
+            </StackPanel>
+        
+        <Button Width="100"
+                    Height="40" 
+                    Content="PROFILE" 
+                    Margin="60,10,60,0"
+                    Name="HomepageProfile" Click="HomepageProfile_Click"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="2" Margin="20, 20, 20, 0">
+            <TextBlock Text="Find your events below"
+                           FontWeight="ExtraLight"
+                           FontFamily="Forte"
+                           FontSize="30"
+                           HorizontalAlignment="Center"
+                           Foreground="White"/>
+
+            <ScrollViewer ScrollViewer.VerticalScrollBarVisibility="Hidden">
+                <ListView x:Name="ListView"
+                          Height="150"
+                          Margin="0,10,0,0">
+                    <ListViewItem Content="hi"/>
+                    <ListViewItem Content="hi"/>
+                    <ListViewItem Content="hi"/>
+                    <ListViewItem Content="hi"/>
+                    <ListViewItem Content="hi"/>
+                </ListView>
+            </ScrollViewer>
+        </StackPanel>
+
+    </Grid>
+</Window>

@@ -1,0 +1,71 @@
+C:\Users\693969\Desktop\dotnet\group_3\frontend\bin\Debug\net7.0-windows\frontend.exe
+C:\Users\693969\Desktop\dotnet\group_3\frontend\bin\Debug\net7.0-windows\frontend.deps.json
+C:\Users\693969\Desktop\dotnet\group_3\frontend\bin\Debug\net7.0-windows\frontend.runtimeconfig.json
+C:\Users\693969\Desktop\dotnet\group_3\frontend\bin\Debug\net7.0-windows\frontend.dll
+C:\Users\693969\Desktop\dotnet\group_3\frontend\bin\Debug\net7.0-windows\frontend.pdb
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\frontend.csproj.AssemblyReference.cache
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\frontend_MarkupCompile.cache
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\frontend_MarkupCompile.lref
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\frontend.g.resources
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\frontend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\frontend.AssemblyInfoInputs.cache
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\frontend.AssemblyInfo.cs
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\frontend.csproj.CoreCompileInputs.cache
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\frontend.dll
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\refint\frontend.dll
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\frontend.pdb
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\frontend.genruntimeconfig.cache
+C:\Users\693969\Desktop\dotnet\group_3\frontend\obj\Debug\net7.0-windows\ref\frontend.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\frontend.exe
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\frontend.deps.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\frontend.runtimeconfig.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\frontend.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\frontend.pdb
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\ControlzEx.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\System.Windows.Interactivity.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\frontend.csproj.AssemblyReference.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\App.g.cs
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\frontend_MarkupCompile.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\frontend_MarkupCompile.lref
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\frontend.g.resources
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\frontend.AssemblyInfoInputs.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\frontend.AssemblyInfo.cs
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\frontend.csproj.CoreCompileInputs.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\frontend.csproj.CopyComplete
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\frontend.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\refint\frontend.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\frontend.pdb
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\frontend.genruntimeconfig.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\ref\frontend.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\EventHouseBtn.baml
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\App.baml
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\MySqlConnector.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\HomePage.g.cs
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\HomePage.baml
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\ProfilePage.g.cs
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\Register.g.cs
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\ProfilePage.baml
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\obj\Debug\net7.0-windows\Register.baml
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\mywebapi.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\BCrypt.Net-Next.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\frontend\bin\Debug\net7.0-windows\mywebapi.pdb

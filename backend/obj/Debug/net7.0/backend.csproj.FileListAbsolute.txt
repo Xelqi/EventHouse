@@ -1,0 +1,66 @@
+C:\Users\693969\Desktop\dotnet\group_3\backend\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\693969\Desktop\dotnet\group_3\backend\bin\Debug\net7.0\appsettings.json
+C:\Users\693969\Desktop\dotnet\group_3\backend\bin\Debug\net7.0\backend.exe
+C:\Users\693969\Desktop\dotnet\group_3\backend\bin\Debug\net7.0\backend.deps.json
+C:\Users\693969\Desktop\dotnet\group_3\backend\bin\Debug\net7.0\backend.runtimeconfig.json
+C:\Users\693969\Desktop\dotnet\group_3\backend\bin\Debug\net7.0\backend.dll
+C:\Users\693969\Desktop\dotnet\group_3\backend\bin\Debug\net7.0\backend.pdb
+C:\Users\693969\Desktop\dotnet\group_3\backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\693969\Desktop\dotnet\group_3\backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\693969\Desktop\dotnet\group_3\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\693969\Desktop\dotnet\group_3\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\693969\Desktop\dotnet\group_3\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\backend.csproj.AssemblyReference.cache
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\backend.AssemblyInfoInputs.cache
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\backend.AssemblyInfo.cs
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\staticwebassets\msbuild.build.backend.props
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.backend.props
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\scopedcss\bundle\backend.styles.css
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\backend.csproj.CopyComplete
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\backend.dll
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\refint\backend.dll
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\backend.pdb
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\backend.genruntimeconfig.cache
+C:\Users\693969\Desktop\dotnet\group_3\backend\obj\Debug\net7.0\ref\backend.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\bin\Debug\net7.0\appsettings.Development.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\bin\Debug\net7.0\appsettings.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\bin\Debug\net7.0\backend.exe
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\bin\Debug\net7.0\backend.deps.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\bin\Debug\net7.0\backend.runtimeconfig.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\bin\Debug\net7.0\backend.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\bin\Debug\net7.0\backend.pdb
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\backend.csproj.AssemblyReference.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\backend.AssemblyInfoInputs.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\backend.AssemblyInfo.cs
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\backend.csproj.CoreCompileInputs.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\backend.MvcApplicationPartsAssemblyInfo.cs
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\backend.MvcApplicationPartsAssemblyInfo.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\staticwebassets\msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\staticwebassets\msbuild.build.backend.props
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.backend.props
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.backend.props
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\staticwebassets.build.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\staticwebassets.development.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\scopedcss\bundle\backend.styles.css
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\backend.csproj.CopyComplete
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\backend.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\refint\backend.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\backend.pdb
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\backend.genruntimeconfig.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\backend\obj\Debug\net7.0\ref\backend.dll

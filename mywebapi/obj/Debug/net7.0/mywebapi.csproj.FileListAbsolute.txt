@@ -1,0 +1,88 @@
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\mywebapi.csproj.AssemblyReference.cache
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\mywebapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\mywebapi.AssemblyInfoInputs.cache
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\mywebapi.AssemblyInfo.cs
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\mywebapi.csproj.CoreCompileInputs.cache
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\mywebapi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\mywebapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\appsettings.json
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\mywebapi.exe
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\mywebapi.deps.json
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\mywebapi.runtimeconfig.json
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\mywebapi.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\mywebapi.pdb
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\staticwebassets\msbuild.mywebapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\staticwebassets\msbuild.build.mywebapi.props
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.mywebapi.props
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.mywebapi.props
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\scopedcss\bundle\mywebapi.styles.css
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\mywebapi.csproj.CopyComplete
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\mywebapi.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\refint\mywebapi.dll
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\mywebapi.pdb
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\mywebapi.genruntimeconfig.cache
+C:\Users\693969\Desktop\dancehouse\group_3\mywebapi\obj\Debug\net7.0\ref\mywebapi.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\appsettings.Development.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\appsettings.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\mywebapi.exe
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\mywebapi.deps.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\mywebapi.runtimeconfig.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\mywebapi.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\mywebapi.pdb
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\MySqlConnector.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\mywebapi.csproj.AssemblyReference.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\mywebapi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\mywebapi.AssemblyInfoInputs.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\mywebapi.AssemblyInfo.cs
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\mywebapi.csproj.CoreCompileInputs.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\mywebapi.MvcApplicationPartsAssemblyInfo.cs
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\mywebapi.MvcApplicationPartsAssemblyInfo.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\staticwebassets\msbuild.mywebapi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\staticwebassets\msbuild.build.mywebapi.props
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.mywebapi.props
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.mywebapi.props
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\staticwebassets.build.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\staticwebassets.development.json
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\scopedcss\bundle\mywebapi.styles.css
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\mywebapi.csproj.CopyComplete
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\mywebapi.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\refint\mywebapi.dll
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\mywebapi.pdb
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\mywebapi.genruntimeconfig.cache
+D:\Year 3\Erasmus\.Net & C#\Project\group_3\mywebapi\obj\Debug\net7.0\ref\mywebapi.dll

@@ -1,0 +1,192 @@
+﻿<Window x:Class="frontend.Register"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:frontend" xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        AllowsTransparency="True" Background="Transparent"
+        WindowStyle="None" ResizeMode="NoResize"
+        MouseDown="Window_MouseDown"
+        Title="Register" Height="550" Width="380">
+
+    <Grid>
+        <!--Making a Grid to split screen in 2-->
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <!--Adding a border that spans over 2 rows with color-->
+            <Border CornerRadius="10" Grid.RowSpan="2">
+                <Border.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="#303030" Offset="0.0"/>
+                        <GradientStop Color="Fuchsia" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+            </Border>
+            <StackPanel HorizontalAlignment="Left">
+                <Button Width="50" Height="50" Click="back_btn">
+                    <Button.Template>
+                        <ControlTemplate>
+                            <iconPacks:PackIconMaterial Kind="ArrowLeft" 
+                                            VerticalAlignment="Center" 
+                                            HorizontalAlignment="Center" 
+                                            Foreground="White"
+                                            Margin="0,0,0,0"
+                                            />
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </StackPanel>
+            <!-- First stackpanel in first fow image and textblock-->
+            <StackPanel VerticalAlignment="Center">
+                <Image 
+                    Source="/Images/cheers.png"
+                    Width="80"/>
+
+                <TextBlock Text="Event House"
+                           FontWeight="Light"
+                           FontFamily="Forte"
+                           FontSize="36"
+                           HorizontalAlignment="Center"
+                           Foreground="White"/>
+            </StackPanel>
+            <!--Username Textbox + Icon-->
+            <StackPanel Grid.Row="1">
+                <StackPanel Orientation="Horizontal">
+                    <TextBox FontFamily="helventica"
+                             FontWeight="Light"
+                             Text="Usename"
+                             FontSize="20"
+                             HorizontalAlignment="Center"
+                             Foreground="White"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             Width="235"
+                             HorizontalContentAlignment="Left"
+                             Opacity="0.8"
+                             Height="25"
+                             Margin="63,0,0,0"
+                             Name="txtusername"/>
+
+
+                    <iconPacks:PackIconMaterial Kind="Account" 
+                                                VerticalAlignment="Center" 
+                                                HorizontalAlignment="Center" 
+                                                Foreground="White"/>
+                </StackPanel>
+                <!--Border to make a line under UserName-->
+                <Border
+                       Width="250"
+                       Height="2"
+                       Background="White"
+                       Opacity="0.5">
+                </Border>
+
+
+                <!--Password Box + Icon-->
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <PasswordBox FontFamily="helventica"
+                                 FontWeight="Light"
+                                 Password="Password"
+                                 FontSize="20"
+                                 HorizontalAlignment="Center"
+                                 Foreground="White"
+                                 Background="Transparent"
+                                 BorderThickness="0"
+                                 Width="235"
+                                 HorizontalContentAlignment="Left"
+                                 Opacity="0.8"
+                                 Height="25"
+                                 Margin="63,0,0,0"
+                                 Name="txtpassword"/>
+
+                    <iconPacks:PackIconMaterial Kind="TextboxPassword" 
+                                                VerticalAlignment="Center" 
+                                                HorizontalAlignment="Center" 
+                                                Foreground="White"/>
+                </StackPanel>
+                <!--Border to make a line under Password-->
+                <Border
+                    Width="250"
+                    Height="2"
+                    Background="White"
+                    Opacity="0.5">
+                </Border>
+
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <TextBox FontFamily="helventica"
+                             FontWeight="Light"
+                             Text="Firstname"
+                             FontSize="20"
+                             HorizontalAlignment="Center"
+                             Foreground="White"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             Width="235"
+                             HorizontalContentAlignment="Left"
+                             Opacity="0.8"
+                             Height="25"
+                             Margin="63,0,0,0"
+                             Name="txtfirstname"/>
+
+
+                    <iconPacks:PackIconMaterial Kind="Account" 
+                                                VerticalAlignment="Center" 
+                                                HorizontalAlignment="Center" 
+                                                Foreground="White"/>
+                </StackPanel>
+                <!--Border to make a line under UserName-->
+                <Border
+                       Width="250"
+                       Height="2"
+                       Background="White"
+                       Opacity="0.5">
+                </Border>
+                <StackPanel Orientation="Horizontal" Margin="0,20,0,0">
+                    <TextBox FontFamily="helventica"
+                             FontWeight="Light"
+                             Text="Lastname"
+                             FontSize="20"
+                             HorizontalAlignment="Center"
+                             Foreground="White"
+                             Background="Transparent"
+                             BorderThickness="0"
+                             Width="235"
+                             HorizontalContentAlignment="Left"
+                             Opacity="0.8"
+                             Height="25"
+                             Margin="63,0,0,0"
+                             Name="txtlastname"/>
+
+
+                    <iconPacks:PackIconMaterial Kind="Account" 
+                                                VerticalAlignment="Center" 
+                                                HorizontalAlignment="Center" 
+                                                Foreground="White"/>
+                </StackPanel>
+                <!--Border to make a line under UserName-->
+                <Border
+                       Width="250"
+                       Height="2"
+                       Background="White"
+                       Opacity="0.5">
+                </Border>
+                <!--Panel under password-->
+                <StackPanel Orientation="Horizontal" 
+                            Margin="80,20,20,80"
+                            HorizontalAlignment="Center">
+                    <Button Width="110"
+                            Height="40" 
+                            Margin="0,20,45,0"
+                            Content="CREATE ACCOUNT" 
+                            Click="btnCreateAcc_Click"/>
+                </StackPanel>
+            </StackPanel>
+
+        </Grid>
+        <!--End of 2 grid-->
+    </Grid>
+</Window>
