@@ -42,15 +42,5 @@ The following is the relationships between our tables: User has a one to one rel
 7. Run frontend
 
 <br>
-
-## Project Work Evaluation
-
-| Task | Points |
-| --- | ----------- |
-| Task 1 | 2|
-| Task 2 | 3|
-| Task 3 | 5|
-| Task 4 | 1|
-| Task 5 | 1|
-| Task 6 | 3|
-| Task 7 | 2|
+## Work Done 
+![commits].(https://github.com/Xelqi/EventHouse/blob/main/gitcommitsC%23.PNG)
