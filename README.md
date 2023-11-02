@@ -43,4 +43,6 @@ The following is the relationships between our tables: User has a one to one rel
 
 <br>
 ## Work Done 
-![commits].(https://github.com/Xelqi/EventHouse/blob/main/gitcommitsC%23.PNG)
+<br>
+
+![commits](https://github.com/Xelqi/EventHouse/blob/main/gitcommitsC%23.PNG)
